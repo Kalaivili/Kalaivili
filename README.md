@@ -1,8 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kalaivili+Mahendran&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software+Engineer+%26+QA+Engineer+%7C+Full-Stack+%7C+Machine+Learning&descAlignY=62&descSize=16" width="100%"/>
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kalaivili+Mahendran&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software+Engineer+and+QA+Engineer&descAlignY=62&descSize=16)
+
+</div>
 
 <div align="center">
   <a href="https://github.com/Kalaivili">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Kalaivili+Mahendran;Software+Engineer+%26+QA+Engineer;Full-Stack+%7C+React+%2B+Node.js+%2B+Laravel;Building+AI+that+explains+itself+%F0%9F%A7%A0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there!+I+am+Kalaivili+Mahendran;Software+Engineer+and+QA+Engineer;Full-Stack+with+React+and+Node.js;Building+AI+that+explains+itself" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,13 +17,19 @@
 ```javascript
 const kalaivili = {
   name: "Kalaivili Mahendran",
-  location: "Jaffna, Sri Lanka 🇱🇰",
-  role: "Software Engineer & QA Engineer @ VitalMasks (Pvt) Ltd.",
-  degree: "BSc (Hons) Software Engineering — ICBT Campus × Cardiff Met",
-  stack: ["React", "Node.js", "Express", "MongoDB", "Laravel", "MySQL", "Python", "Java"],
-  currentlyLearning: ["Test Automation", "MLOps", "System Design"],
-  funFact: "I teach models to read retinal scans, then break software for a living 🔬",
-  motto: () => "Ship it reliable, explain it clearly. ✨",
+  location: "Jaffna, Sri Lanka",
+  role: "Software + QA Engineer",
+  company: "VitalMasks (Pvt) Ltd.",
+  degree: "BSc (Hons) Software Eng.",
+  uni: "ICBT x Cardiff Met",
+  stack: ["React", "Node.js",
+    "Laravel", "Python", "Java",
+    "MongoDB", "MySQL"],
+  currentlyLearning: [
+    "Test Automation", "MLOps",
+    "System Design"],
+  funFact: "AI that reads retinas",
+  motto: () => "Ship reliable.",
 };
 ```
 
@@ -127,6 +137,7 @@ const kalaivili = {
 
 > `React.js` `Node.js` `Express.js` `MongoDB` `Git/GitHub` `Functional Testing` `UI Testing` `Regression Testing`
 
+
 </details>
 
 <details>
@@ -134,10 +145,7 @@ const kalaivili = {
 
 > `React.js` `Node.js` `Express.js` `MongoDB` `Laravel/PHP` `MySQL` `Git/GitHub` `Mobile App`
 
-- Contributed to **3 systems**: National Sports Festival Management System, Student Management System and Vehicle Management System (mobile app).
-- Worked on the multi-role National Sports Festival platform (Province, System and Super Administrators), including deployment, hosting, testing and troubleshooting.
-- Performed functional and UI testing, documenting bugs for development teams.
-- Used Git/GitHub for version control and collaborative development.
+
 
 </details>
 
