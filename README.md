@@ -127,11 +127,6 @@ const kalaivili = {
 
 > `React.js` `Node.js` `Express.js` `MongoDB` `Git/GitHub` `Functional Testing` `UI Testing` `Regression Testing`
 
-- Contribute to the development of a **Point-of-Sale (POS) management system** alongside the QA process.
-- Perform functional, UI and regression testing across product, customer, payment, discount, tax, warranty/expiry and receipt workflows.
-- Identify, document and report defects with clear reproduction steps, and verify fixes after release.
-- Collaborate with developers through Git/GitHub branching and version control.
-
 </details>
 
 <details>
