@@ -127,10 +127,6 @@ const kalaivili = {
 
 > `React.js` `Node.js` `Express.js` `MongoDB` `Git/GitHub` `Functional Testing` `UI Testing` `Regression Testing`
 
-- Contribute to the development of a **Point-of-Sale (POS) management system** alongside the QA process.
-- Perform functional, UI and regression testing across product, customer, payment, discount, tax, warranty/expiry and receipt workflows.
-- Identify, document and report defects with clear reproduction steps, and verify fixes after release.
-- Collaborate with developers through Git/GitHub branching and version control.
 
 </details>
 
@@ -139,10 +135,6 @@ const kalaivili = {
 
 > `React.js` `Node.js` `Express.js` `MongoDB` `Laravel/PHP` `MySQL` `Git/GitHub` `Mobile App`
 
-- Contributed to **3 systems**: National Sports Festival Management System, Student Management System and Vehicle Management System (mobile app).
-- Worked on the multi-role National Sports Festival platform (Province, System and Super Administrators), including deployment, hosting, testing and troubleshooting.
-- Performed functional and UI testing, documenting bugs for development teams.
-- Used Git/GitHub for version control and collaborative development.
 
 </details>
 
