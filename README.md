@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kalaivili+Mahendran&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software+Engineer&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kalaivili+Mahendran&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software+Engineer+and+QA+Engineer&descAlignY=62&descSize=16)
 
 </div>
 
@@ -118,16 +118,6 @@ const kalaivili = {
   <img src="https://streak-stats.demolab.com?user=Kalaivili&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalaivili&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kalaivili&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" />
-</div>
-
 ---
 
 ## 💼 Work Experience
@@ -137,6 +127,10 @@ const kalaivili = {
 
 > `React.js` `Node.js` `Express.js` `MongoDB` `Git/GitHub` `Functional Testing` `UI Testing` `Regression Testing`
 
+- Contribute to the development of a **Point-of-Sale (POS) management system** alongside the QA process.
+- Perform functional, UI and regression testing across product, customer, payment, discount, tax, warranty/expiry and receipt workflows.
+- Identify, document and report defects with clear reproduction steps, and verify fixes after release.
+- Collaborate with developers through Git/GitHub branching and version control.
 
 </details>
 
@@ -145,7 +139,10 @@ const kalaivili = {
 
 > `React.js` `Node.js` `Express.js` `MongoDB` `Laravel/PHP` `MySQL` `Git/GitHub` `Mobile App`
 
-
+- Contributed to **3 systems**: National Sports Festival Management System, Student Management System and Vehicle Management System (mobile app).
+- Worked on the multi-role National Sports Festival platform (Province, System and Super Administrators), including deployment, hosting, testing and troubleshooting.
+- Performed functional and UI testing, documenting bugs for development teams.
+- Used Git/GitHub for version control and collaborative development.
 
 </details>
 
@@ -174,7 +171,7 @@ const kalaivili = {
 | 🧠 | **98% model accuracy** | XGBoost won a 6-algorithm benchmark (precision, recall, F1, AUC-ROC) on 50,000+ F1 data points |
 | 🔬 | **Explainable healthcare AI** | EfficientNet-B3 + Grad-CAM across 4 retinal conditions in RetinaInsight |
 | 💼 | **Industry experience** | 6-month software engineering internship, now Software + QA Engineer |
-| 🏗️ | **Multiple systems delivered** | Contributed to develope systems at Innovay and at VitalMasks |
+| 🏗️ | **Multiple systems delivered** | Contributed to 3 systems at Innovay and the POS system at VitalMasks |
 | 🎓 | **Academic progress** | Higher Diploma completed, BSc (Hons) final results awaited |
 
 </div>
