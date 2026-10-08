@@ -163,7 +163,7 @@ const kalaivili = {
 | 🧠 | **98% model accuracy** | XGBoost won a 6-algorithm benchmark (precision, recall, F1, AUC-ROC) on 50,000+ F1 data points |
 | 🔬 | **Explainable healthcare AI** | EfficientNet-B3 + Grad-CAM across 4 retinal conditions in RetinaInsight |
 | 💼 | **Industry experience** | 6-month software engineering internship, now Software + QA Engineer |
-| 🏗️ | **Multiple systems delivered** | Contributed to 3 systems at Innovay and the POS system at VitalMasks |
+| 🏗️ | **Multiple systems delivered** | Contributed to developed systems at Innovay and VitalMasks |
 | 🎓 | **Academic progress** | Higher Diploma completed, BSc (Hons) final results awaited |
 
 </div>
